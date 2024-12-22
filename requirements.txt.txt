@@ -1,4 +1,4 @@
-xgboost
+XGBoost
 streamlit
 scikit-learn
 pandas
